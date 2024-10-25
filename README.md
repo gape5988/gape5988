@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gape5988 (Gavin Petruzzi)
-- 👀 I’m interested in the field of computer science, more specifically in artifical intelligence. 
-- 🌱 I’m currently learning the basics of c++ and coding programs in vs code. 
-- 💞️ I’m looking to collaborate on projects and other code files in order to accomplish tasks.
+- 👀 I’m interested in artificial intelligence and full stack development.
+- 🌱 I’m currently learning assembly and other low-level languages
+- 💞️ I’m looking to collaborate on a wide variety of projects while I finish my degree at CU Boulder
 - 📫 How to reach me: You can reach me at gape5988@colorado.edu
 
 <!---
